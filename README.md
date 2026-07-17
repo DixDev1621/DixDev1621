@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Dixun%20Devotta%20S&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20MERN%20Developer%20%7C%20Building%20Scalable%20Web%2C%20Blockchain%20%26%20IoT%20Systems&descAlignY=62&descSize=16" width="100%"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Full-Stack+(MERN)+Developer;Smart+India+Hackathon+Winner+%F0%9F%8F%86;Building+with+React+%7C+Node.js+%7C+MongoDB;Exploring+Blockchain+%26+IoT+Systems" alt="Typing SVG" />
 
