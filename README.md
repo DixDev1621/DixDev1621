@@ -85,20 +85,20 @@ console.log(dixun.motto());
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
+  <a href="https://github.com/DixDev1621">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DixDev1621&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10"/>
   </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
+  <a href="https://github.com/DixDev1621">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DixDev1621&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10"/>
   </a>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
+  <img src="https://streak-stats.demolab.com?user=DixDev1621&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=70A5FD&fire=BF91F3&currStreakLabel=70A5FD&sideLabels=38BDAE&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&stroke=0D1117&border_radius=10"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-GITHUB-USERNAME&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DixDev1621&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 </div>
 
 <br/>
@@ -106,7 +106,7 @@ console.log(dixun.motto());
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=DixDev1621&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4"/>
 </div>
 
 <br/>
@@ -197,9 +197,9 @@ console.log(dixun.motto());
 
 <div align="center">
 
-📫 Reach me at **dixundevotta.s@gmail.com** · [LinkedIn](#) · [Portfolio](#)
+📫 Reach me at **dixundevotta.s@gmail.com** · [LinkedIn](https://www.linkedin.com/in/dixundevotta-s/) · [Portfolio](https://genuine-muffin-922989.netlify.app/)
 
-<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=70a5fd&style=flat-square" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=DixDev1621&color=70a5fd&style=flat-square" alt="profile views"/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
 
